@@ -1,8 +1,8 @@
 # Hi, I'm Rubel Khan 👋
 
-### AI Automation & Agentic AI Developer · Data Analyst · Power BI
+### AI Automation & Agentic AI Developer · Data Analyst · Power BI · WordPress
 
-I build **AI agents, chatbots and automations** that save businesses time, and turn raw data into clear **Power BI dashboards** for better decisions. I also ship full-stack web apps with Next.js and TypeScript, mostly EdTech for Bangladesh.
+I build **AI agents, chatbots and automations** that save businesses time, and turn raw data into clear **Power BI dashboards** for better decisions. I also ship full-stack web apps with Next.js and TypeScript and professional websites with WordPress, mostly EdTech for Bangladesh.
 
 ## 🧠 What I do
 
@@ -14,6 +14,7 @@ I build **AI agents, chatbots and automations** that save businesses time, and t
 | 📊 **Data Analysis** | Cleaning, analyzing and finding insights in business data |
 | 📈 **Power BI Dashboards** | Interactive dashboards and reports with KPIs and drill-downs |
 | 🌐 **Full-Stack Web Apps** | Fast, responsive apps with Next.js, TypeScript and Supabase |
+| 🧩 **WordPress Websites** | Business and portfolio websites built and customized with WordPress |
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +22,7 @@ I build **AI agents, chatbots and automations** that save businesses time, and t
 
 **Data & BI:** ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Web:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+**Web:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -36,4 +37,4 @@ I build **AI agents, chatbots and automations** that save businesses time, and t
 
 ## 🤝 Let's Work Together
 
-I'm open to **freelance and full-time work** in AI automation, AI agents, chatbots, data analysis and Power BI. Feel free to reach out!
+I'm open to **freelance and full-time work** in AI automation, AI agents, chatbots, data analysis, Power BI and WordPress websites. Feel free to reach out!
